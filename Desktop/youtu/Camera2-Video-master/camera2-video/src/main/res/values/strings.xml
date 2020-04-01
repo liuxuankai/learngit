@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera2</string>
+    <string name="camera2_permission_message">Permission needed to use your camera</string>
+</resources>
